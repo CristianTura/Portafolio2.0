@@ -4,7 +4,7 @@
 
 ## General Info
 
-## Este proyecto fue realizado con una estructura básica de HTML, CSS y algo de bootstrap. El principal objetivo del proyecto es crear un portafolio en donde se muestre información personal, los principales trabajos realizados y la forma de contacto.
+Este proyecto fue realizado con una estructura básica de HTML y CSS. El principal objetivo del proyecto es crear un portafolio en donde se muestre información personal, los principales trabajos realizados y la forma de contacto.
 
 ---
 
