@@ -173,9 +173,9 @@ hr {
 }
 
 .photo {
-    width: 200px;
+    width: 300px;
     border-radius: 50%;
-    margin-bottom: 2%;
+    margin: 5% 0 2% 0;
 }
 
 .hero {
@@ -420,6 +420,10 @@ hr {
     margin-bottom: 50px;
 }
 
+.btnGithub {
+    margin-left: 10%;
+}
+
 /* contact */
 
 .contact .col-md {
@@ -581,5 +585,8 @@ footer li a {
 
     .logo-footer img {
         max-width: 100px;
+    }
+    .photo {
+        width: 200px;
     }
 }

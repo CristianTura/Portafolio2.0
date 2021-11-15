@@ -72,7 +72,7 @@
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    /* padding-left: 0.5rem; */
 }
 
 .col-xs {
