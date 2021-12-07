@@ -418,6 +418,12 @@ hr {
 
 .row-proyects {
     margin-bottom: 50px;
+    /* box-shadow: 5px 5px 2px #000; */
+}
+
+.row-proyects img {
+    /* margin-bottom: 50px; */
+    box-shadow: 5px 5px 10px #000;
 }
 
 .btnGithub {
@@ -498,6 +504,17 @@ footer li a {
     text-decoration: none;
 }
 
+.links-footer{
+    display: flex;
+    justify-content: space-between;
+    max-width: 60vw;
+    margin: auto;
+}
+.linkSocial {
+    margin-left: auto;
+    width: 150px;
+}
+
 .secondary-footer {
     background-color: #e1e0e0;
     padding: 1rem;
@@ -533,6 +550,56 @@ footer li a {
 
     .cta .display {
         margin-top: 1rem;
+    }
+    .intro {
+        margin: 7vh 0 5vh;
+    }
+    .skills{
+        margin-bottom: 7vh;
+    } 
+    .portfolio{
+        margin-top: 12vh;
+        margin-bottom: 12vh;
+    } 
+    .contact{
+        margin-top: 0vh;
+        margin-bottom: 15vh;
+    }
+    .section-title{
+        margin-bottom: 2vh;
+    }
+    .margin-bottom{ 
+        margin-bottom: 2rem;
+    }
+    .links-footer{
+        margin-left: 10px;
+    }
+    .links-footer{
+        display: flex;
+        justify-content: space-between;
+        max-width: 80vw;
+        margin: auto;
+    }
+    .logo-footer{
+        margin-left: 7vw;
+    }
+    .copyright{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .form-inputs{
+        width: 90vw;
+    }
+    .form-textarea{
+        width: 90vw;
+        margin-top: -30px;
+    }
+    .row-textarea{
+        padding: 0 0.5rem;
+    }
+    .form-contain-inputs{
+        width: 100%;
     }
 }
 
@@ -588,5 +655,34 @@ footer li a {
     }
     .photo {
         width: 200px;
+    }
+    .intro {
+        margin: 7vh 0 7vh;
+    }
+    .skills{
+        margin-bottom: 7vh;
+    } 
+    .portfolio{
+        margin-top: 12vh;
+        margin-bottom: 12vh;
+    } 
+    .contact{
+        margin-top: 0vh;
+        margin-bottom: 15vh;
+    }
+    .section-title{
+        margin-bottom: 2vh;
+    }
+    .margin-bottom{ 
+        margin-bottom: 2rem;
+    }
+    .links-footer{
+        margin-left: 10px;
+    }
+
+    .copyright{
+        display: flex;
+        justify-content: center;
+        width: 100%;
     }
 }

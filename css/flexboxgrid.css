@@ -106,6 +106,7 @@
     -ms-flex-preferred-size: 33.33333333%;
     flex-basis: 33.33333333%;
     max-width: 33.33333333%;
+    margin-bottom: 3vh;
 }
 
 .col-xs-5 {
